@@ -60,8 +60,9 @@ h4 {
 
 img {
   border: 2px solid black;
+  box-sizing: border-box;
 }
 
 .wrapper {
-  background: "images/white-wood.jpg";
+  background: "./images/white-wood.jpg";
 }
