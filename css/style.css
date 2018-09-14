@@ -63,5 +63,5 @@ img {
 }
 
 .wrapper {
-  background-image: "./images/white-wood.jpg"
+  background-image: ./images/white-wood.jpg;
 }
