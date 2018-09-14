@@ -5,7 +5,7 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
-  background: "./images/white-wood.jpg"
+  
 }
 
 .container, h1 {
@@ -60,4 +60,8 @@ h4 {
 
 img {
   border: 2px solid black;
+}
+
+.wrapper {
+  background: "./images/white-wood.jpg"
 }
